@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pesquisa-Cep-React/static/css/main.e6c13ad2.css",
+    "main.js": "/Pesquisa-Cep-React/static/js/main.01b76d8c.js",
+    "static/js/453.520e1735.chunk.js": "/Pesquisa-Cep-React/static/js/453.520e1735.chunk.js",
+    "index.html": "/Pesquisa-Cep-React/index.html",
+    "main.e6c13ad2.css.map": "/Pesquisa-Cep-React/static/css/main.e6c13ad2.css.map",
+    "main.01b76d8c.js.map": "/Pesquisa-Cep-React/static/js/main.01b76d8c.js.map",
+    "453.520e1735.chunk.js.map": "/Pesquisa-Cep-React/static/js/453.520e1735.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.01b76d8c.js"
+  ]
+}
